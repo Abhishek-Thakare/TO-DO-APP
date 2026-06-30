@@ -1,5 +1,5 @@
 // pages/Landing.js - Simple Clean Landing Page
-import React, { useState } from "react";
+import React from "react";
 import { Link } from "react-router-dom";
 import { useTheme } from "../context/ThemeContext";
 import "../css/landing.css";
