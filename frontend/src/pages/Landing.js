@@ -6,7 +6,7 @@ import "../css/landing.css";
 
 const Landing = () => {
   const { theme, toggleTheme } = useTheme();
-  const [menuOpen, setMenuOpen] = useState(false);
+  // const [menuOpen, setMenuOpen] = useState(false);
 
   return (
     <div className="landing-page">
